@@ -1,11 +1,4 @@
-ffjjhh
-:wq!
-jjjsdjfskdf
-:wq
-:wq
+[B[A[Bthis is line 
 
-
-
-
-c11
-c111 new add line
+i
+this is second line
